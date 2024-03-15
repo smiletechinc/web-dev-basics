@@ -120,6 +120,7 @@ git push -u origin [branch name]
 ## Push changes to remote repository (remembered branch)
 git push										
 
+
 ## Delete a remote branch
 git push origin --delete [branch name]			
 
