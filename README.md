@@ -120,11 +120,13 @@ git push -u origin [branch name]
 ## Push changes to remote repository (remembered branch)
 git push										
 
+
 ## Delete a remote branch
 git push origin --delete [branch name]			
 
-## Update local repository to the newest commit
+## Update local repository to the newest commit --- git commands
 git pull										
+
 
 ## Pull changes from remote repository
 git pull origin [branch name]								
